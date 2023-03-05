@@ -1,0 +1,3 @@
+rootProject.name = 'porteblaNatal'
+
+include ':app'
